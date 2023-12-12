@@ -1,1 +1,1 @@
-# DATA1030_Bank_Marketing
+# Binary Classification in Bank Marketing
